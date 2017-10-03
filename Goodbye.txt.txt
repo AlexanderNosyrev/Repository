@@ -1,1 +1,1 @@
-print("goodbye, everypone!")
+print("goodbye, everypone!;")
